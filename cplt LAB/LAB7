@@ -1,0 +1,23 @@
+#include<conio.h>
+#include<stdio.h>
+/*do while loop
+\do(condition)
+{
+\\statment......\\
+\\}
+while(condition)
+*/
+void main()
+{
+    int i=2;
+    do
+    {
+
+
+        printf("%d\n",i);
+     i+2  
+        
+    }
+    while(i<=20);
+    getch  () ;
+}
